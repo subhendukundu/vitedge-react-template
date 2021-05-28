@@ -16,7 +16,7 @@
     "react-helmet-async": "^1.0.7",
     "react-router-config": "^5.1.1",
     "react-router-dom": "^5.2.0",
-    "vitedge": "^0.10.1"
+    "vitedge": "^0.12.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react-refresh": "^1.1.0",
